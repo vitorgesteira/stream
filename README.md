@@ -1,0 +1,2 @@
+# stream
+anotação sobre stream
